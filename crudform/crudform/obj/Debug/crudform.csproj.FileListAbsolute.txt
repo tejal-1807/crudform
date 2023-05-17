@@ -1,0 +1,11 @@
+C:\Users\Vishal\source\repos\crudform\crudform\bin\Debug\crudform.exe.config
+C:\Users\Vishal\source\repos\crudform\crudform\bin\Debug\crudform.exe
+C:\Users\Vishal\source\repos\crudform\crudform\bin\Debug\crudform.pdb
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.Form1.resources
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.Properties.Resources.resources
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.csproj.GenerateResource.cache
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.exe
+C:\Users\Vishal\source\repos\crudform\crudform\obj\Debug\crudform.pdb
